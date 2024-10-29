@@ -36,21 +36,34 @@ a,
     align-items: center;
     padding: 1rem 2rem;
     background-color: #f4f4f9;
+    height: 17vh;
 }
 
 .logo {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: 600;
+}
+.logo:hover{
+    cursor: default;
 }
 
 .nav-links {
     list-style-type: none;
     display: flex;
-    gap: 1rem;
+    gap: 2rem;
+    font-size: 1.5rem;
 }
 
 .nav-links a {
     text-decoration: none;
     color: #333;
     font-weight: 500;
+    text-decoration-color: white;
+}
+
+a:hover{
+    color:grey;
+    text-decoration: underline;
+    text-underline-offset: 0.5rem;
+    text-decoration-color: rgb(181, 181, 181);
 }
