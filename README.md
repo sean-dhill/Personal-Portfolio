@@ -16,5 +16,4 @@ Welcome to my personal portfolio website, which was built to showcase who I am a
 - Mobile-responsive design
 - Smooth scrolling and clean UI
 
-👨‍💻 **Author**: Sean Dhillon  
-📬 Feel free to reach out or connect through the contact section on the site!
+Feel free to reach out or connect through the contact section on the site!
