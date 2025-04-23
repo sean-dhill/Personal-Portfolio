@@ -1,4 +1,20 @@
-# Personal-Portfolio
+# 💼 Sean Dhillon — Personal Portfolio Website
 
-# Reason for choosing MIT
-I chose the MIT license because it allows others to use and modify my work and distribute it with minimal restirictions. I was to show my work with the intention that it can possibly help someone in the future. This license allows me to do that since it doesnt imose strict requirements on use and future use. 
+Welcome to my personal portfolio website, which was built to showcase who I am as a developer. It includes a curated selection of my projects, skills, education, work experience, and contact information. The site is clean, responsive, and designed to highlight my technical background and creative edge.
+
+🔗 **Live Site**: [https://sean-dhill.github.io/Personal-Portfolio/](https://sean-dhill.github.io/Personal-Portfolio/)
+
+🛠️ **Built With**:
+- HTML
+- CSS
+- JavaScript
+
+📁 **Features**:
+- Project gallery with links to GitHub repos
+- Downloadable resume
+- Professional and academic experience
+- Mobile-responsive design
+- Smooth scrolling and clean UI
+
+👨‍💻 **Author**: Sean Dhillon  
+📬 Feel free to reach out or connect through the contact section on the site!
